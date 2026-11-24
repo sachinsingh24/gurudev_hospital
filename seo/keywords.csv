@@ -101,7 +101,7 @@ endoscopy test near me,Endoscopy,local,en,/treatments/endoscopy,P2,research,cove
 endoscopy kaise hoti hai,Endoscopy,informational,hi-Latn,/treatments/endoscopy,P3,research,covered: in title/H1
 orthopedic doctor badlapur,Orthopaedics,local,en,/specialities/orthopaedics,P1,autocomplete,covered: in title/H1
 orthopedic hospital badlapur,Orthopaedics,local,en,/specialities/orthopaedics,P1,autocomplete,covered: in title/H1
-orthopedic surgeon in badlapur,Orthopaedics,local,en,/specialities/orthopaedics,P2,autocomplete,needs info: name of the consultant (MISSING-INFO #9); don't claim a specialist before that
+orthopedic surgeon in badlapur,Orthopaedics,local,en,/specialities/orthopaedics,P2,autocomplete,needs info: name of the consultant (MISSING-INFO #5); don't claim a specialist before that
 bone doctor badlapur,Orthopaedics,local,en,/specialities/orthopaedics,P2,research,covered: in title/H1
 knee pain treatment badlapur,Orthopaedics,local,en,/specialities/orthopaedics,P3,research,covered: on page
 orthopedic doctor in badlapur east,Orthopaedics,local,en,/specialities/orthopaedics,P2,autocomplete (Nov 2026),covered: in title/H1
@@ -127,19 +127,19 @@ fever treatment badlapur,Medicine,local,en,/specialities/general-medicine,P3,res
 jaundice treatment badlapur,Jaundice,local,en,/treatments/jaundice-hepatitis-treatment,P2,research,covered: in title/H1
 kavil upchar,Jaundice,informational,mr-Latn,/treatments/jaundice-hepatitis-treatment,P2,autocomplete,covered: on page
 hepatitis a treatment badlapur,Jaundice,local,en,/treatments/jaundice-hepatitis-treatment,P3,research (confirmed by reviews),covered: in title/H1
-gastroenterologist badlapur,Gastroenterology,local,en,/specialities/gastroenterology,P2,autocomplete,needs info: name of the consultant (MISSING-INFO #9); don't claim a specialist before that
-gastroenterologist badlapur east,Gastroenterology,local,en,/specialities/gastroenterology,P3,autocomplete,needs info: name of the consultant (MISSING-INFO #9); don't claim a specialist before that
+gastroenterologist badlapur,Gastroenterology,local,en,/specialities/gastroenterology,P2,autocomplete,needs info: name of the consultant (MISSING-INFO #5); don't claim a specialist before that
+gastroenterologist badlapur east,Gastroenterology,local,en,/specialities/gastroenterology,P3,autocomplete,needs info: name of the consultant (MISSING-INFO #5); don't claim a specialist before that
 child specialist badlapur,Paediatrics,local,en,/specialities/paediatrics,P1,autocomplete,covered: in title/H1
-pediatrician in badlapur east,Paediatrics,local,en,/specialities/paediatrics,P2,autocomplete,needs info: name of the consultant (MISSING-INFO #9); don't claim a specialist before that
+pediatrician in badlapur east,Paediatrics,local,en,/specialities/paediatrics,P2,autocomplete,needs info: name of the consultant (MISSING-INFO #5); don't claim a specialist before that
 children hospital badlapur,Paediatrics,local,en,/specialities/paediatrics,P2,autocomplete,covered: on page
 best children hospital in badlapur,Paediatrics,local,en,/specialities/paediatrics,P3,autocomplete,covered: on page
 children hospital in badlapur east,Paediatrics,local,en,/specialities/paediatrics,P2,autocomplete (Nov 2026),covered: on page
 child specialist in badlapur east,Paediatrics,local,en,/specialities/paediatrics,P2,autocomplete (Nov 2026),covered: in title/H1
-neurologist badlapur,Neurology,local,en,/specialities/neurology,P2,autocomplete,needs info: name of the consultant (MISSING-INFO #9); don't claim a specialist before that
-neurologist in badlapur east,Neurology,local,en,/specialities/neurology,P3,autocomplete,needs info: name of the consultant (MISSING-INFO #9); don't claim a specialist before that
+neurologist badlapur,Neurology,local,en,/specialities/neurology,P2,autocomplete,needs info: name of the consultant (MISSING-INFO #5); don't claim a specialist before that
+neurologist in badlapur east,Neurology,local,en,/specialities/neurology,P3,autocomplete,needs info: name of the consultant (MISSING-INFO #5); don't claim a specialist before that
 paralysis treatment badlapur,Neurology,local,en,/specialities/neurology,P3,research,covered: on page
 ent doctor in badlapur,ENT,local,en,/specialities/ent,P2,research (signboard),covered: in title/H1
-ent specialist near me,ENT,local,en,/specialities/ent,P2,research,needs info: name of the consultant (MISSING-INFO #9); don't claim a specialist before that
+ent specialist near me,ENT,local,en,/specialities/ent,P2,research,needs info: name of the consultant (MISSING-INFO #5); don't claim a specialist before that
 ent hospital in badlapur east,ENT,local,en,/specialities/ent,P3,autocomplete (Nov 2026),covered: on page
 dialysis centre badlapur,Dialysis,local,en,/specialities/dialysis,P1,autocomplete (low competition),covered: in title/H1
 dialysis in badlapur,Dialysis,local,en,/specialities/dialysis,P1,autocomplete,covered: in title/H1
@@ -170,8 +170,8 @@ laparoscopic surgeon in ambernath,Area: Ambernath,local,en,/areas-we-serve/amber
 surgeon in ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P2,autocomplete (Nov 2026),covered: on page
 orthopedic hospital in ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P2,autocomplete (Nov 2026),covered: on page
 orthopedic doctor in ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P2,autocomplete (Nov 2026),covered: on page
-gynecologist in ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P2,autocomplete (Nov 2026),partly: area page lists the gynaecology department; name the gynaecologist (MISSING-INFO #9) before claiming one
-gynecologist hospital in ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P3,autocomplete (Nov 2026),partly: area page lists the gynaecology department; name the gynaecologist (MISSING-INFO #9) before claiming one
+gynecologist in ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P2,autocomplete (Nov 2026),partly: area page lists the gynaecology department; name the gynaecologist (MISSING-INFO #5) before claiming one
+gynecologist hospital in ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P3,autocomplete (Nov 2026),partly: area page lists the gynaecology department; name the gynaecologist (MISSING-INFO #5) before claiming one
 child specialist in ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P2,autocomplete (Nov 2026),covered: on page
 child specialist hospital in ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P3,autocomplete (Nov 2026),covered: on page
 dialysis centre in ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P1,autocomplete (Nov 2026),covered: on page
@@ -193,7 +193,7 @@ maternity hospital in badlapur west,Area: Badlapur West,local,en,/areas-we-serve
 children hospital in badlapur west,Area: Badlapur West,local,en,/areas-we-serve/badlapur-west,P2,autocomplete (Nov 2026),covered: on page
 child specialist in badlapur west,Area: Badlapur West,local,en,/areas-we-serve/badlapur-west,P2,autocomplete (Nov 2026),covered: on page
 orthopedic doctor in badlapur west,Area: Badlapur West,local,en,/areas-we-serve/badlapur-west,P2,autocomplete (Nov 2026),covered: on page
-gynecologist in badlapur west,Area: Badlapur West,local,en,/areas-we-serve/badlapur-west,P3,autocomplete (Nov 2026),partly: area page lists the gynaecology department; name the gynaecologist (MISSING-INFO #9) before claiming one
+gynecologist in badlapur west,Area: Badlapur West,local,en,/areas-we-serve/badlapur-west,P3,autocomplete (Nov 2026),partly: area page lists the gynaecology department; name the gynaecologist (MISSING-INFO #5) before claiming one
 doctor in badlapur west,Area: Badlapur West,local,en,/areas-we-serve/badlapur-west,P2,autocomplete (Nov 2026),covered: on page
 24 hour hospital badlapur west,Area: Badlapur West,local,en,/areas-we-serve/badlapur-west,P2,research,covered: on page
 emergency hospital badlapur west,Area: Badlapur West,local,en,/areas-we-serve/badlapur-west,P3,research,covered: on page
