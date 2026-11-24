@@ -88,7 +88,7 @@ export const specialityContent = {
       "Surgeon on floor 24×7",
       "Emergency surgery",
       "Trauma & fracture care",
-      "Critical-care monitoring",
+      "Intensive care unit (ICU) & critical-care monitoring",
       "Stabilisation & safe referral when needed"
     ],
     symptoms: [
@@ -322,7 +322,7 @@ export const specialityContent = {
     ]
   },
   orthopaedics: {
-    title: "Orthopedic Hospital in Badlapur East | Fracture & Joint Care",
+    title: "Orthopedic Doctor & Hospital in Badlapur East | Fractures",
     metaDescription: "Orthopaedic care in Badlapur East: fractures, accident injuries, back, knee & joint pain, sports injuries. 24×7 trauma care. Call 080875\u00a034842.",
     h1: "Orthopaedics — Bone, Joint & Fracture Care in Badlapur",
     body: [

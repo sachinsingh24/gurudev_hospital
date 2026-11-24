@@ -3,11 +3,11 @@ import { areas, getArea } from '../data/areas.js';
 import { site } from '../config/site.js';
 import { hospitalImage } from '../data/photos.js';
 import { Seo } from '../seo/Head.jsx';
-import { breadcrumbSchema, webPageSchema, HOSPITAL_ID } from '../seo/schema.js';
+import { breadcrumbSchema, faqSchema, webPageSchema, HOSPITAL_ID } from '../seo/schema.js';
 import Icon from '../components/Icon.jsx';
 import MapEmbed from '../components/MapEmbed.jsx';
 import Sidebar from '../components/Sidebar.jsx';
-import { CtaBand, HeroActions, PageHero } from '../components/Blocks.jsx';
+import { CtaBand, FaqList, HeroActions, PageHero } from '../components/Blocks.jsx';
 import NotFound from './NotFound.jsx';
 
 const directionsFrom = (origin) =>
@@ -67,7 +67,8 @@ export function AreaDetail() {
         schema={[
           webPageSchema({ path, name: a.title, description: a.metaDescription, about: { '@id': HOSPITAL_ID } }),
           breadcrumbSchema(crumbs),
-        ]}
+          faqSchema(a.faqs),
+        ].filter(Boolean)}
       />
       <PageHero crumbs={crumbs} eyebrow={`Serving ${a.name}`} title={a.h1} lead={a.intro} image={hospitalImage('hospital-building-signboard')}>
         <HeroActions />
@@ -99,6 +100,24 @@ export function AreaDetail() {
             ))}
           </div>
 
+          {a.services?.length ? (
+            <>
+              <h2>Treatments for {a.name} patients</h2>
+              <ul className="area-services">
+                {a.services.map((sv) => (
+                  <li key={sv.to}>
+                    <Link to={sv.to} className="area-services__link">
+                      <span className="area-services__label">
+                        {sv.label} <Icon name="arrowRight" size={16} />
+                      </span>
+                      <span className="area-services__text">{sv.text}</span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </>
+          ) : null}
+
           <h2>Hospital address</h2>
           <address className="location__nap">
             <strong>{site.name}</strong>
@@ -115,6 +134,7 @@ export function AreaDetail() {
         </article>
         <Sidebar />
       </div>
+      <FaqList faqs={a.faqs} title={`Questions from ${a.name} patients`} />
       <CtaBand />
     </>
   );

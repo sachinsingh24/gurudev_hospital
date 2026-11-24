@@ -45,12 +45,16 @@ export const treatmentContent = {
         a: "Many early piles improve with diet changes, fluids and medicines. A procedure or surgery is advised when bleeding or prolapse keeps returning, or when piles are large."
       },
       {
+        q: "Who is the piles specialist at Gurudev Hospital?",
+        a: "Piles are treated by our consulting general & laparoscopic surgeon, Dr. Mayur Rupavat (MBBS, MS – General Surgery, FMAS, FIAGES). His practice focuses on laparoscopic surgery and proctology, the branch of surgery that treats piles, fissure and fistula."
+      },
+      {
         q: "Is blood in stool always due to piles?",
         a: "No. Bleeding can also come from a fissure, polyps or, rarely, cancer. Any rectal bleeding should be examined by a doctor, especially after age 40."
       },
       {
         q: "What is mulvyadh?",
-        a: "मूळव्याध (mulvyadh) is the Marathi word for piles (haemorrhoids)."
+        a: "मूळव्याध (mulvyadh) is the Marathi word for piles (haemorrhoids). In Hindi piles are called bawaseer, and \"bawaseer ka ilaj\" means piles treatment."
       }
     ]
   },
@@ -140,7 +144,7 @@ export const treatmentContent = {
     ]
   },
   "hernia-surgery": {
-    title: "Hernia Surgery in Badlapur East | Laparoscopic Hernia Repair",
+    title: "Hernia Surgery & Operation in Badlapur East | Laparoscopic",
     metaDescription: "Laparoscopic & open hernia repair in Badlapur East for inguinal, umbilical & incisional hernia. General & laparoscopic surgeon, 24×7. Call 080875\u00a034842.",
     h1: "Hernia Surgery in Badlapur",
     sections: [
@@ -305,7 +309,7 @@ export const treatmentContent = {
     ]
   },
   "kidney-stone-treatment": {
-    title: "Kidney Stone Treatment in Badlapur East | Stone Removal",
+    title: "Kidney Stone Doctor & Treatment in Badlapur East | Pathri",
     metaDescription: "Kidney & ureteric stone treatment in Badlapur East: pain relief, medicines and stone-removal procedures with in-patient care. Call 080875\u00a034842.",
     h1: "Kidney Stone Treatment in Badlapur",
     sections: [
@@ -346,7 +350,7 @@ export const treatmentContent = {
       },
       {
         q: "What is mutkhada?",
-        a: "मूतखडा (mutkhada) is the Marathi word for a kidney or urinary stone; pathri is the common Hindi word."
+        a: "मूतखडा (mutkhada) is the Marathi word for a kidney or urinary stone; pathri is the common Hindi word, so a kidney stone procedure is often called \"pathri ka operation\"."
       }
     ]
   },
@@ -430,7 +434,7 @@ export const treatmentContent = {
       },
       {
         q: "What is kavil?",
-        a: "कावीळ (kavil) is the Marathi word for jaundice."
+        a: "कावीळ (kavil) is the Marathi word for jaundice, and \"kavil upchar\" means jaundice treatment. Piliya is the common Hindi word."
       }
     ]
   },

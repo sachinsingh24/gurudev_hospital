@@ -13,6 +13,26 @@
 
 ---
 
+## 0. Go live first (blocking, found 24 Nov 2026)
+
+**Status:** `www.gurudevhospital.com` was registered at GoDaddy on 22 Nov 2026 and still shows GoDaddy's parking page, and the Google Business Profile has no website. Until both are fixed, the website cannot appear in Google and cannot help the Maps ranking. Do these in order:
+
+| # | Step | Who | Time |
+|---|---|---|---|
+| 1 | Push the latest code to GitHub (`main`). | Developer | 1 min |
+| 2 | **Vercel** → Add New Project → import `sachinsingh24/gurudev_hospital`. Add the variables from `.env` (at least `VITE_SITE_URL=https://www.gurudevhospital.com` and `VITE_GOOGLE_MAPS_API_KEY`) → Deploy. | Owner (Vercel login) | 10 min |
+| 3 | Vercel → Project → Settings → **Domains**: add `www.gurudevhospital.com` (primary) and `gurudevhospital.com`. | Owner | 2 min |
+| 4 | **GoDaddy** → My Products → `gurudevhospital.com` → DNS: delete the "Parked" A record and any forwarding, then add exactly the records Vercel shows (normally `A  @  76.76.21.21` and `CNAME  www  cname.vercel-dns.com`). | Owner (GoDaddy login) | 5 min, then up to 1 hour to take effect |
+| 5 | **Google Search Console** → Add property → *Domain* `gurudevhospital.com` → verify with the TXT record at GoDaddy → Sitemaps: submit `https://www.gurudevhospital.com/sitemap.xml` → URL inspection: *Request indexing* for the home page. | Owner | 10 min |
+| 6 | **Google Business Profile** → Edit profile → Website: `https://www.gurudevhospital.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp`, Appointment link, and remove "\| Best Surgery Centre in Badlapur" from the name. Then the rest of section 5. | Owner (profile login) | 15 min |
+| 7 | **Bing Places** → "Import from Google Business Profile". **Apple Business Connect** → claim the hospital on Apple Maps. | Owner | 15 min |
+
+### What "hospital near me" really depends on
+- **Distance comes first.** Google shows the closest relevant hospitals to the person searching. Realistic goal: top 3 on the map for people in and around Shirgaon, Badlapur East (Katrap, Kulgaon, Badlapur station area), and visible for "hospital in Badlapur" and "hospital near Ambernath / Vangani" searches through the website's area pages.
+- **"Best hospital near me"** has no "best" ranking switch: Google leans on rating, number of reviews and how recent they are. 4.8★ from 133 reviews is already strong; 15–25 genuine new reviews a month keeps it climbing (section 5, reviews).
+- **Never put "best" or keywords in the business name.** It breaks Google's rules and can get the listing suspended.
+- After going live, expect Google to index the site in days and the Maps ranking to improve over 1–3 months as reviews, posts and citations build up.
+
 ## 1. How Google ranks local results, and what we control
 
 Google ranks the Maps pack and "near me" results on three things:
