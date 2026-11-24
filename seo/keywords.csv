@@ -1,0 +1,147 @@
+keyword,cluster,intent,language,target_url,priority,evidence
+hospital in badlapur east,Core local,local,en,/,P1,autocomplete
+best hospital in badlapur,Core local,local,en,/,P1,autocomplete
+multispeciality hospital in badlapur,Core local,local,en,/,P1,autocomplete
+best multispeciality hospital in badlapur,Core local,local,en,/,P1,autocomplete
+badlapur hospital,Core local,local,en,/,P1,autocomplete
+hospital near me,Core local,local,en,/ + Google Business Profile,P1,research (proximity-driven; Maps pack)
+hospital near badlapur station,Core local,local,en,/,P2,autocomplete
+badlapur east hospital list,Core local,local,en,/,P2,autocomplete
+doctor near me open now,Core local,local,en,Google Business Profile,P2,research
+book doctor appointment badlapur,Core local,transactional,en,/book-appointment,P2,research
+24 hour hospital badlapur,Emergency,local,en,/specialities/emergency-trauma-care,P1,research
+emergency hospital near me,Emergency,local,en,/specialities/emergency-trauma-care,P1,research
+emergency hospital badlapur east,Emergency,local,en,/specialities/emergency-trauma-care,P1,research
+accident hospital badlapur,Emergency,local,en,/treatments/fracture-treatment,P1,research
+trauma centre badlapur,Emergency,local,en,/specialities/emergency-trauma-care,P2,research
+icu hospital badlapur,Emergency,local,en,/specialities/emergency-trauma-care,P2,research (confirm ICU details)
+which hospital is open 24 hours in badlapur,Emergency,informational,en,/specialities/emergency-trauma-care,P2,research
+ambulance badlapur,Emergency,local,en,(needs ambulance info),P3,autocomplete
+gurudev hospital badlapur,Brand,navigational,en,/,P1,autocomplete
+gurudev multispeciality hospital badlapur,Brand,navigational,en,/,P1,autocomplete
+gurudev hospital badlapur east,Brand,navigational,en,/contact,P1,autocomplete
+gurudev hospital badlapur reviews,Brand,navigational,en,/reviews,P2,autocomplete
+gurudev hospital badlapur photos,Brand,navigational,en,/photos,P2,autocomplete
+services offered by gurudev hospital badlapur,Brand,navigational,en,/specialities,P3,autocomplete
+badlapur hospital number,Brand,navigational,en,/contact,P2,autocomplete
+dr mayur rupavat,Doctor,navigational,en,/doctors/dr-mayur-rupavat,P1,research (low competition)
+dr mayur rupavat badlapur,Doctor,navigational,en,/doctors/dr-mayur-rupavat,P1,research
+cashless hospital in badlapur east,Insurance,transactional,en,(future /insurance page),P2,autocomplete
+star health cashless hospital in badlapur,Insurance,transactional,en,(future /insurance page),P3,autocomplete
+ayushman card hospital list badlapur,Insurance,transactional,en,(only if empanelled),P3,autocomplete
+general surgeon badlapur,Surgery,local,en,/specialities/general-laparoscopic-surgery,P1,autocomplete
+surgeon in badlapur,Surgery,local,en,/specialities/general-laparoscopic-surgery,P1,autocomplete
+laparoscopic surgeon in badlapur,Surgery,local,en,/specialities/general-laparoscopic-surgery,P1,autocomplete
+laparoscopic surgery badlapur,Surgery,local,en,/specialities/general-laparoscopic-surgery,P1,research
+keyhole surgery badlapur,Surgery,local,en,/specialities/general-laparoscopic-surgery,P2,research
+best general surgeon in badlapur,Surgery,local,en,/doctors/dr-mayur-rupavat,P2,research
+laparoscopic vs open surgery,Surgery,informational,en,/health-guides/laparoscopic-vs-open-surgery,P3,research
+keyhole surgery recovery time,Surgery,informational,en,/health-guides/laparoscopic-vs-open-surgery,P3,research
+laparoscopic surgery cost thane,Surgery,transactional,en,/health-guides/laparoscopic-vs-open-surgery,P3,research
+hernia surgery badlapur,Hernia,local,en,/treatments/hernia-surgery,P1,research
+hernia operation badlapur,Hernia,local,en,/treatments/hernia-surgery,P1,research
+laparoscopic hernia surgery badlapur,Hernia,local,en,/treatments/hernia-surgery,P2,research
+hernia operation cost in thane,Hernia,transactional,en,/treatments/hernia-surgery,P2,autocomplete
+harnia operation,Hernia,local,hi-Latn,/treatments/hernia-surgery,P3,research
+harnia kya hai,Hernia,informational,hi-Latn,/treatments/hernia-surgery,P3,autocomplete
+umbilical hernia treatment badlapur,Hernia,local,en,/treatments/hernia-surgery,P3,research
+gallbladder stone surgery badlapur,Gallbladder,local,en,/treatments/gallbladder-stone-surgery,P1,research
+gallbladder stone removal badlapur,Gallbladder,local,en,/treatments/gallbladder-stone-surgery,P2,research
+laparoscopic cholecystectomy badlapur,Gallbladder,local,en,/treatments/gallbladder-stone-surgery,P2,research
+gallbladder stone operation cost in mumbai,Gallbladder,transactional,en,/treatments/gallbladder-stone-surgery,P3,autocomplete
+pittashay ki pathri ke lakshan,Gallbladder,informational,hi-Latn,/treatments/gallbladder-stone-surgery,P3,autocomplete
+can i live without a gallbladder,Gallbladder,informational,en,/treatments/gallbladder-stone-surgery,P3,research
+appendix operation badlapur,Appendix,local,en,/treatments/appendix-surgery,P1,research
+appendicitis treatment badlapur,Appendix,local,en,/treatments/appendix-surgery,P2,research
+appendix pain symptoms,Appendix,informational,en,/health-guides/appendix-pain-symptoms,P2,research
+appendix pain location,Appendix,informational,en,/health-guides/appendix-pain-symptoms,P3,research
+appendix operation cost in thane,Appendix,transactional,en,/treatments/appendix-surgery,P3,autocomplete
+appendix operation recovery time,Appendix,informational,en,/treatments/appendix-surgery,P3,autocomplete
+appendix operation meaning in marathi,Appendix,informational,mr-Latn,/treatments/appendix-surgery,P3,autocomplete
+piles doctor badlapur,Piles,local,en,/treatments/piles-treatment,P1,autocomplete
+piles treatment in badlapur,Piles,local,en,/treatments/piles-treatment,P1,autocomplete
+piles specialist doctor in badlapur,Piles,local,en,/treatments/piles-treatment,P2,autocomplete
+piles doctor badlapur east,Piles,local,en,/treatments/piles-treatment,P2,autocomplete
+mulvyadh doctor,Piles,local,mr-Latn,/treatments/piles-treatment,P2,autocomplete
+mulvyadh symptoms in marathi,Piles,informational,mr-Latn,/health-guides/piles-vs-fissure-vs-fistula,P3,autocomplete
+bawaseer ka ilaj,Piles,informational,hi-Latn,/treatments/piles-treatment,P3,research
+piles operation cost in mumbai,Piles,transactional,en,/treatments/piles-treatment,P3,autocomplete
+is there a permanent cure for piles,Piles,informational,en,/treatments/piles-treatment,P3,research
+fissure treatment badlapur,Fissure,local,en,/treatments/fissure-treatment,P1,research
+fissure surgery badlapur,Fissure,local,en,/treatments/fissure-treatment,P1,research (confirmed by reviews)
+fissure doctor badlapur east,Fissure,local,en,/treatments/fissure-treatment,P2,research
+fissure operation recovery time,Fissure,informational,en,/treatments/fissure-treatment,P3,autocomplete
+fissure operation meaning in marathi,Fissure,informational,mr-Latn,/treatments/fissure-treatment,P3,autocomplete
+fistula surgery badlapur,Fistula,local,en,/treatments/fistula-treatment,P1,research
+fistula treatment badlapur,Fistula,local,en,/treatments/fistula-treatment,P2,research
+bhagandar operation,Fistula,local,hi-Latn,/treatments/fistula-treatment,P2,autocomplete
+bhagandar operation cost,Fistula,transactional,hi-Latn,/treatments/fistula-treatment,P3,autocomplete
+piles vs fissure,Ano-rectal,informational,en,/health-guides/piles-vs-fissure-vs-fistula,P2,research
+piles fissure fistula difference,Ano-rectal,informational,en,/health-guides/piles-vs-fissure-vs-fistula,P3,research
+kidney stone treatment badlapur,Kidney stone,local,en,/treatments/kidney-stone-treatment,P1,research (confirmed by reviews)
+kidney stone doctor in badlapur,Kidney stone,local,en,/treatments/kidney-stone-treatment,P1,autocomplete
+kidney stone surgery badlapur,Kidney stone,local,en,/treatments/kidney-stone-treatment,P2,research
+pathri ka operation,Kidney stone,local,hi-Latn,/treatments/kidney-stone-treatment,P2,autocomplete
+pathri ka operation kaise hota hai,Kidney stone,informational,hi-Latn,/treatments/kidney-stone-treatment,P3,autocomplete
+mutkhada upchar,Kidney stone,informational,mr-Latn,/health-guides/kidney-stone-pain-what-to-do,P3,research
+kidney stone pain,Kidney stone,informational,en,/health-guides/kidney-stone-pain-what-to-do,P2,research
+kidney stone operation cost in mumbai,Kidney stone,transactional,en,/treatments/kidney-stone-treatment,P3,autocomplete
+urologist badlapur,Urology,local,en,/specialities/urology,P1,autocomplete
+urologist in badlapur east,Urology,local,en,/specialities/urology,P2,autocomplete
+prostate treatment badlapur,Urology,local,en,/specialities/urology,P3,research
+urine infection doctor badlapur,Urology,local,en,/specialities/urology,P3,research
+hydrocele surgery badlapur,Hydrocele,local,en,/treatments/hydrocele-surgery,P2,research
+hydrocele operation badlapur,Hydrocele,local,en,/treatments/hydrocele-surgery,P2,research
+hydrocele kya hota hai,Hydrocele,informational,hi-Latn,/treatments/hydrocele-surgery,P3,autocomplete
+hydrocele surgery cost,Hydrocele,transactional,en,/treatments/hydrocele-surgery,P3,autocomplete
+endoscopy in badlapur,Endoscopy,local,en,/treatments/endoscopy,P2,research (signboard)
+endoscopy test near me,Endoscopy,local,en,/treatments/endoscopy,P2,research
+endoscopy kaise hoti hai,Endoscopy,informational,hi-Latn,/treatments/endoscopy,P3,research
+orthopedic doctor badlapur,Orthopaedics,local,en,/specialities/orthopaedics,P1,autocomplete
+orthopedic hospital badlapur,Orthopaedics,local,en,/specialities/orthopaedics,P1,autocomplete
+orthopedic surgeon in badlapur,Orthopaedics,local,en,/specialities/orthopaedics,P2,autocomplete
+bone doctor badlapur,Orthopaedics,local,en,/specialities/orthopaedics,P2,research
+knee pain treatment badlapur,Orthopaedics,local,en,/specialities/orthopaedics,P3,research
+fracture treatment badlapur,Fracture,local,en,/treatments/fracture-treatment,P1,research
+fracture hospital near me,Fracture,local,en,/treatments/fracture-treatment,P2,research
+fracture operation cost,Fracture,transactional,en,/treatments/fracture-treatment,P3,autocomplete
+how long does a fracture take to heal,Fracture,informational,en,/treatments/fracture-treatment,P3,research
+maternity hospital badlapur,Maternity,local,en,/treatments/maternity-delivery-care,P1,autocomplete
+best maternity hospital in badlapur east,Maternity,local,en,/treatments/maternity-delivery-care,P1,autocomplete
+gynecologist badlapur east,Gynaecology,local,en,/specialities/gynaecology-obstetrics,P1,autocomplete
+gynecologist near me badlapur east,Gynaecology,local,en,/specialities/gynaecology-obstetrics,P2,autocomplete
+normal delivery hospital badlapur,Maternity,local,en,/treatments/maternity-delivery-care,P1,research
+c section delivery badlapur,Maternity,local,en,/treatments/maternity-delivery-care,P2,research
+c section cost in thane,Maternity,transactional,en,/treatments/maternity-delivery-care,P3,autocomplete
+delivery charges badlapur,Maternity,transactional,en,/treatments/maternity-delivery-care,P2,research
+general physician badlapur,Medicine,local,en,/specialities/general-medicine,P1,autocomplete
+general physician in badlapur east,Medicine,local,en,/specialities/general-medicine,P2,autocomplete
+dengue treatment hospital badlapur,Medicine,local,en,/specialities/general-medicine,P2,research
+fever treatment badlapur,Medicine,local,en,/specialities/general-medicine,P3,research
+jaundice treatment badlapur,Jaundice,local,en,/treatments/jaundice-hepatitis-treatment,P2,research
+kavil upchar,Jaundice,informational,mr-Latn,/treatments/jaundice-hepatitis-treatment,P2,autocomplete
+hepatitis a treatment badlapur,Jaundice,local,en,/treatments/jaundice-hepatitis-treatment,P3,research (confirmed by reviews)
+gastroenterologist badlapur,Gastroenterology,local,en,/specialities/gastroenterology,P2,autocomplete
+gastroenterologist badlapur east,Gastroenterology,local,en,/specialities/gastroenterology,P3,autocomplete
+child specialist badlapur,Paediatrics,local,en,/specialities/paediatrics,P1,autocomplete
+pediatrician in badlapur east,Paediatrics,local,en,/specialities/paediatrics,P2,autocomplete
+children hospital badlapur,Paediatrics,local,en,/specialities/paediatrics,P2,autocomplete
+best children hospital in badlapur,Paediatrics,local,en,/specialities/paediatrics,P3,autocomplete
+neurologist badlapur,Neurology,local,en,/specialities/neurology,P2,autocomplete
+neurologist in badlapur east,Neurology,local,en,/specialities/neurology,P3,autocomplete
+paralysis treatment badlapur,Neurology,local,en,/specialities/neurology,P3,research
+ent doctor in badlapur,ENT,local,en,/specialities/ent,P2,research (signboard)
+ent specialist near me,ENT,local,en,/specialities/ent,P2,research
+dialysis centre badlapur,Dialysis,local,en,/specialities/dialysis,P1,autocomplete (low competition)
+dialysis in badlapur,Dialysis,local,en,/specialities/dialysis,P1,autocomplete
+dialysis near ambernath,Dialysis,local,en,/specialities/dialysis,P2,research
+dialysis cost in thane,Dialysis,transactional,en,/specialities/dialysis,P3,autocomplete
+dialysis cost per session,Dialysis,transactional,en,/specialities/dialysis,P3,autocomplete
+multispeciality hospital in ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P2,autocomplete
+best hospital in ambernath east,Area: Ambernath,local,en,/areas-we-serve/ambernath,P2,autocomplete
+hospital in ambernath west,Area: Ambernath,local,en,/areas-we-serve/ambernath,P3,autocomplete
+24 hour hospital near ambernath,Area: Ambernath,local,en,/areas-we-serve/ambernath,P2,research
+hospital in vangani,Area: Vangani,local,en,/areas-we-serve/vangani,P2,autocomplete (low competition)
+vangani hospital list,Area: Vangani,local,en,/areas-we-serve/vangani,P3,autocomplete
+hospital in badlapur west,Area: Badlapur West,local,en,/areas-we-serve/badlapur-west,P2,autocomplete
+hospital near badlapur station west,Area: Badlapur West,local,en,/areas-we-serve/badlapur-west,P3,autocomplete

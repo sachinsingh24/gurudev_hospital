@@ -1,0 +1,640 @@
+{
+  "general-laparoscopic-surgery": [
+    {
+      "file": "general-laparoscopic-surgery-1",
+      "alt": "Surgeon performing an operation in a sterile operating theatre",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1551190822-a9333d879b1f",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "general-laparoscopic-surgery-2",
+      "alt": "Surgical team operating under theatre lights",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1775947933085-30050ddad6b3",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "emergency-trauma-care": [
+    {
+      "file": "emergency-trauma-care-1",
+      "alt": "Illuminated emergency department sign at night",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1758404958502-44f156617bae",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "emergency-trauma-care-2",
+      "alt": "Patient monitor and ventilator in a critical-care room",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1630128295920-627fb9aff5a4",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "urology": [
+    {
+      "file": "urology-1",
+      "alt": "Doctor holding an anatomical model of a kidney",
+      "width": 960,
+      "height": 640,
+      "widths": [
+        480,
+        960
+      ],
+      "source": "https://images.unsplash.com/photo-1559757175-053139280de2",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "urology-2",
+      "alt": "Laboratory test tube held by a gloved hand",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1631557675464-77cf8f0d9426",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "orthopaedics": [
+    {
+      "file": "orthopaedics-1",
+      "alt": "Doctor examining hand X-rays for fractures",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://www.pexels.com/photo/5722161/",
+      "license": "Pexels License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "orthopaedics-2",
+      "alt": "X-ray of a shoulder joint",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1516069677018-378515003435",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "gynaecology-obstetrics": [
+    {
+      "file": "gynaecology-obstetrics-1",
+      "alt": "Ultrasound scan being performed on a pregnant woman's abdomen",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://www.pexels.com/photo/7089396/",
+      "license": "Pexels License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "gynaecology-obstetrics-2",
+      "alt": "Clinician operating an ultrasound machine",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://www.pexels.com/photo/7108426/",
+      "license": "Pexels License (free commercial use, no attribution required)"
+    }
+  ],
+  "gastroenterology": [
+    {
+      "file": "gastroenterology-1",
+      "alt": "3D illustration of the human digestive system",
+      "width": 960,
+      "height": 640,
+      "widths": [
+        480,
+        960
+      ],
+      "source": "https://images.unsplash.com/photo-1649073586428-e288125d930a",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "gastroenterology-2",
+      "alt": "Hands resting on the abdomen",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1549445069-d1125f7a129c",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "ent": [
+    {
+      "file": "ent-1",
+      "alt": "Doctor examining a patient's ear with an otoscope",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://www.pexels.com/photo/5206942/",
+      "license": "Pexels License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "ent-2",
+      "alt": "Close-up of an ear examination with an otoscope",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://www.pexels.com/photo/5206946/",
+      "license": "Pexels License (free commercial use, no attribution required)"
+    }
+  ],
+  "general-medicine": [
+    {
+      "file": "general-medicine-1",
+      "alt": "Doctor holding a stethoscope",
+      "width": 960,
+      "height": 640,
+      "widths": [
+        480,
+        960
+      ],
+      "source": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "general-medicine-2",
+      "alt": "Medical team discussing a patient's case",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://www.pexels.com/photo/8943103/",
+      "license": "Pexels License (free commercial use, no attribution required)"
+    }
+  ],
+  "paediatrics": [
+    {
+      "file": "paediatrics-1",
+      "alt": "Otoscope check on a teddy bear, used to put young children at ease",
+      "width": 960,
+      "height": 640,
+      "widths": [
+        480,
+        960
+      ],
+      "source": "https://images.unsplash.com/photo-1763294905880-6caf7e585241",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "paediatrics-2",
+      "alt": "Doctor listening to a child's chest with a stethoscope",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1676313030076-4ac0b37050fd",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "neurology": [
+    {
+      "file": "neurology-1",
+      "alt": "Doctors reviewing brain MRI scans",
+      "width": 960,
+      "height": 640,
+      "widths": [
+        480,
+        960
+      ],
+      "source": "https://images.unsplash.com/photo-1758691463110-697a814b2033",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "neurology-2",
+      "alt": "Illustration of the human brain",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1617791160536-598cf32026fb",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "dialysis": [
+    {
+      "file": "dialysis-1",
+      "alt": "Haemodialysis machine",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1742436598939-f5cd30ba7827",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "dialysis-2",
+      "alt": "Infusion pumps and monitoring equipment beside a hospital bed",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1766299892683-d50398e31823",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "hernia-surgery": [
+    {
+      "file": "hernia-surgery-1",
+      "alt": "Surgical team performing an operation",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1579684453423-f84349ef60b0",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "hernia-surgery-2",
+      "alt": "Modern operating theatre with surgical lights",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1516549655169-df83a0774514",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "gallbladder-stone-surgery": [
+    {
+      "file": "gallbladder-stone-surgery-1",
+      "alt": "Two surgeons performing a procedure",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1551601651-2a8555f1a136",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "gallbladder-stone-surgery-2",
+      "alt": "Ultrasound machine used for abdominal scans",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://www.pexels.com/photo/7108390/",
+      "license": "Pexels License (free commercial use, no attribution required)"
+    }
+  ],
+  "appendix-surgery": [
+    {
+      "file": "appendix-surgery-1",
+      "alt": "Person holding their abdomen in pain",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1769029174021-b305fa92f0ae",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "appendix-surgery-2",
+      "alt": "Surgeons operating under bright theatre lights",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1639154968821-6dbc3efb8d23",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "piles-treatment": [
+    {
+      "file": "piles-treatment-1",
+      "alt": "Stethoscope on a hospital bed",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "piles-treatment-2",
+      "alt": "Stethoscope with medicine tablets",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1584982751601-97dcc096659c",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "fissure-treatment": [
+    {
+      "file": "fissure-treatment-1",
+      "alt": "Sterile surgical instruments on a tray",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1727830968495-ea2798aaee35",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "fissure-treatment-2",
+      "alt": "Stethoscope on a light blue background",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1655313719493-16ebe4906441",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "fistula-treatment": [
+    {
+      "file": "fistula-treatment-1",
+      "alt": "Sterilised surgical scissors and forceps",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1727830968636-3a1b507bd601",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "fistula-treatment-2",
+      "alt": "Surgeon's gloved hands during an operation",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1563233987-35f9d4b9a861",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "kidney-stone-treatment": [
+    {
+      "file": "kidney-stone-treatment-1",
+      "alt": "Ultrasound scanner displaying an abdominal image",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://www.pexels.com/photo/6235665/",
+      "license": "Pexels License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "kidney-stone-treatment-2",
+      "alt": "Doctor pointing at an ultrasound image on a monitor",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://www.pexels.com/photo/7108427/",
+      "license": "Pexels License (free commercial use, no attribution required)"
+    }
+  ],
+  "hydrocele-surgery": [
+    {
+      "file": "hydrocele-surgery-1",
+      "alt": "Surgical clamps prepared in an operating theatre",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1514416309827-bfb0cf433a2d",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "hydrocele-surgery-2",
+      "alt": "Clean hospital ward with beds",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1538108149393-fbbd81895907",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "endoscopy": [
+    {
+      "file": "endoscopy-1",
+      "alt": "Medical endoscope with its video monitor",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1784864535284-fc27093e5863",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "endoscopy-2",
+      "alt": "Doctor reviewing scan images on a tablet",
+      "width": 960,
+      "height": 640,
+      "widths": [
+        480,
+        960
+      ],
+      "source": "https://images.unsplash.com/photo-1758691462668-046fd85ceac9",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "fracture-treatment": [
+    {
+      "file": "fracture-treatment-1",
+      "alt": "Foot in a plaster cast beside a wheelchair",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://www.pexels.com/photo/6191128/",
+      "license": "Pexels License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "fracture-treatment-2",
+      "alt": "X-ray of hand bones",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://www.pexels.com/photo/5723874/",
+      "license": "Pexels License (free commercial use, no attribution required)"
+    }
+  ],
+  "maternity-delivery-care": [
+    {
+      "file": "maternity-delivery-care-1",
+      "alt": "Newborn baby being weighed on a scale",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1559835491-08d2e0781dd9",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "maternity-delivery-care-2",
+      "alt": "Hands on a pregnant woman's belly",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1711313532327-2f47602eb6ba",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ],
+  "jaundice-hepatitis-treatment": [
+    {
+      "file": "jaundice-hepatitis-treatment-1",
+      "alt": "Blood sample tubes in a laboratory rack",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1606206591513-adbfbdd7a177",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    },
+    {
+      "file": "jaundice-hepatitis-treatment-2",
+      "alt": "Blood test tubes being handled in a laboratory",
+      "width": 1440,
+      "height": 960,
+      "widths": [
+        480,
+        960,
+        1440
+      ],
+      "source": "https://images.unsplash.com/photo-1639772823849-6efbd173043c",
+      "license": "Unsplash License (free commercial use, no attribution required)"
+    }
+  ]
+}

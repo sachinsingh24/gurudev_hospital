@@ -1,0 +1,20 @@
+{
+  "front.jpg": {
+    "alt": "Front entrance of Gurudev Multi-Speciality Hospital on Yadav Nagar Road, Shirgaon, Badlapur East",
+    "caption": "Hospital entrance",
+    "category": "Exterior",
+    "order": 1
+  },
+  "reception.jpg": {
+    "alt": "Reception and waiting area at Gurudev Multi-Speciality Hospital, Badlapur",
+    "caption": "Reception & waiting area",
+    "category": "Facilities",
+    "order": 2
+  },
+  "operation-theatre.jpg": {
+    "alt": "Operation theatre for laparoscopic and general surgery at Gurudev Hospital, Badlapur East",
+    "caption": "Operation theatre",
+    "category": "Facilities",
+    "order": 3
+  }
+}

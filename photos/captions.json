@@ -1,0 +1,93 @@
+{
+  "hospital-building-signboard.jpg": {
+    "alt": "Gurudev Multi-Speciality Hospital building in Shirgaon, Badlapur East, with its 24x7 signboard listing surgery, medicine, paediatrics, gynaecology, gastro, orthopaedics, endoscopy, trauma, neuro and urology",
+    "caption": "Hospital building & 24×7 signboard",
+    "category": "Exterior",
+    "order": 1,
+    "source": "Google Business Profile — uploaded by Dr. Mayur Rupavat, Apr 2023"
+  },
+  "operation-theatre-c-arm.webp": {
+    "alt": "Operation theatre with a C-arm X-ray system and its twin-monitor workstation, operating table and ceiling-mounted surgical lights at Gurudev Multi-Speciality Hospital, Badlapur East",
+    "caption": "Operation theatre with C-arm",
+    "category": "Operation theatre",
+    "source": "Provided by the site owner, Nov 2026 (photos of the hospital, from its Google Maps listing)",
+    "order": 2
+  },
+  "general-ward.webp": {
+    "alt": "General ward with beds separated by privacy curtains, ceiling fans and large windows at Gurudev Multi-Speciality Hospital, Badlapur East",
+    "caption": "General ward",
+    "category": "Wards & rooms",
+    "source": "Provided by the site owner, Nov 2026 (photos of the hospital, from its Google Maps listing)",
+    "order": 3
+  },
+  "reception-opd.jpg": {
+    "alt": "Reception desk with OPD 1 and OPD 2 consultation rooms at Gurudev Multi-Speciality Hospital, Badlapur",
+    "caption": "Reception & OPD rooms",
+    "category": "Facilities",
+    "order": 4,
+    "source": "Google Business Profile — uploaded by Dr. Mayur Rupavat, Apr 2023"
+  },
+  "casualty-emergency-room.jpg": {
+    "alt": "Casualty (emergency) room with two beds, a patient monitor, defibrillator, dressing trolley and triage and CPR charts at Gurudev Multi-Speciality Hospital, Badlapur East",
+    "caption": "Casualty & emergency room",
+    "category": "Emergency",
+    "source": "Google Maps listing — posted by a Google user (visitor), Oct 2025; used on the site owner's instruction (Nov 2026). Original 3264×2448.",
+    "order": 5
+  },
+  "labour-room.webp": {
+    "alt": "Labour room with a delivery table, newborn baby warmer and suction machine at Gurudev Multi-Speciality Hospital, Badlapur East",
+    "caption": "Labour room with baby warmer",
+    "category": "Maternity",
+    "source": "Provided by the site owner, Nov 2026 (photos of the hospital, from its Google Maps listing)",
+    "order": 6
+  },
+  "single-patient-room.webp": {
+    "alt": "Room 4, a single patient room with a bed, air conditioner, IV stand and bedside cabinet at Gurudev Multi-Speciality Hospital, Badlapur",
+    "caption": "Single patient room",
+    "category": "Wards & rooms",
+    "source": "Provided by the site owner, Nov 2026 (photos of the hospital, from its Google Maps listing)",
+    "order": 7
+  },
+  "operation-theatre.jpg": {
+    "alt": "Operation theatre with operating tables and ceiling-mounted surgical lights at Gurudev Multi-Speciality Hospital, Badlapur East",
+    "caption": "Operation theatre",
+    "category": "Facilities",
+    "order": 8,
+    "source": "Google Business Profile — uploaded by the hospital (owner), Apr 2023"
+  },
+  "casualty-room-beds.webp": {
+    "alt": "Emergency room beds with privacy curtains and a wall-mounted patient monitor at Gurudev Multi-Speciality Hospital, Badlapur",
+    "caption": "Emergency room beds",
+    "category": "Emergency",
+    "source": "Provided by the site owner, Nov 2026 (photos of the hospital, from its Google Maps listing)",
+    "order": 9
+  },
+  "emergency-crash-cart.webp": {
+    "alt": "Emergency crash cart with a defibrillator, IV fluids and colour-coded drug trays, ready for resuscitation at Gurudev Multi-Speciality Hospital",
+    "caption": "Emergency crash cart & defibrillator",
+    "category": "Emergency",
+    "source": "Provided by the site owner, Nov 2026 (photos of the hospital, from its Google Maps listing)",
+    "order": 10
+  },
+  "hospital-at-night-24x7.jpg": {
+    "alt": "Gurudev Multi-Speciality Hospital lit up at night, open 24x7, with the Gurudev Medical store at the entrance on Yadav Nagar Road, Badlapur East",
+    "caption": "Open 24×7 — the hospital at night",
+    "category": "Exterior",
+    "order": 11,
+    "source": "Google Business Profile — uploaded by the hospital (owner), Mar 2025; cropped to exclude passers-by"
+  },
+  "hospital-inauguration.jpg": {
+    "alt": "Inauguration of Gurudev Multi-Speciality Hospital at the reception and OPD area, Badlapur East, April 2023",
+    "caption": "Hospital inauguration, April 2023",
+    "category": "Events",
+    "order": 12,
+    "source": "Google Business Profile — uploaded by the hospital (owner), Apr 2023"
+  },
+  "operation-theatre-inauguration.webp": {
+    "alt": "Guests at the operation table during the inauguration of Gurudev Multi-Speciality Hospital, Badlapur East, April 2023",
+    "caption": "Operation theatre on inauguration day, April 2023",
+    "category": "Events",
+    "source": "Provided by the site owner, Nov 2026 (photos of the hospital, from its Google Maps listing)",
+    "order": 13
+  }
+}

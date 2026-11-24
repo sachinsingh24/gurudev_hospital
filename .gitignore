@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-server
+.env
+.env.local
+*.log
+.DS_Store
+.vercel
+.claude/settings.local.json
+# Third-party photo held back until the poster gives permission (see photos/needs-permission/README.md)
+photos/needs-permission/*.jpg
