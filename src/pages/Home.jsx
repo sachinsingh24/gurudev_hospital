@@ -82,11 +82,11 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="hero__card card" aria-label="Emergency information">
+          <section className="hero__card card" aria-labelledby="hero-card-title">
             <p className="hero__card-status">
               <span className="pulse-dot" aria-hidden="true" /> Open now · 24 hours
             </p>
-            <h2 className="hero__card-title">Medical emergency?</h2>
+            <h2 id="hero-card-title" className="hero__card-title">Medical emergency?</h2>
             <p>Call while you are on the way so our team is ready when you arrive.</p>
             <a href={site.phone.tel} className="btn btn--emergency btn--block btn--lg">
               <Icon name="phone" size={20} /> Call {site.phone.display}
@@ -102,7 +102,7 @@ export default function Home() {
                 <Icon name="ambulance" size={18} /> Trauma, accident &amp; critical care
               </li>
             </ul>
-          </div>
+          </section>
         </div>
       </section>
 
